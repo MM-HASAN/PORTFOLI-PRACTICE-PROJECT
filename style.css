@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Playfair Display", serif;
+}
+#about-me {
+  background-image: url(./images/top-banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 500px;
+}
+
+#about-me h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+#about-me h2 {
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+#about-me p {
+  text-align: justify;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 30px;
+  line-height: 30px;
+}
+.text-orange {
+  color: #ff3987;
+}
+.half-width {
+  float: left;
+  /*border: 1px solid red;*/
+  width: 40%;
+  padding: 2%;
+  margin: 2%;
+}
+.hero-img {
+  width: 380px;
+  height: 380px;
+  float: right;
+}
+#dream-skill {
+}
+
+#experience-area {
+}
