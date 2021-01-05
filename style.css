@@ -33,6 +33,16 @@ body {
 .text-orange {
   color: #ff3987;
 }
+.btn {
+  font-size: 15px;
+  padding: 10px 8px;
+  text-transform: uppercase;
+  background-color: #db3175;
+  border-radius: 5px;
+  border: none;
+  margin-top: 20px;
+  color: #fff;
+}
 .half-width {
   float: left;
   /*border: 1px solid red;*/
