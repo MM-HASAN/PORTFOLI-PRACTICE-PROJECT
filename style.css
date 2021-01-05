@@ -57,6 +57,10 @@ body {
   float: right;
 }
 #dream-skill {
+  height: 500px;
+  background-image: url(./images/2.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
 #dream-skill img {
   float: left;
@@ -87,5 +91,28 @@ body {
   text-decoration: none;
   color: #fff;
 }
-#experience-area {
+#experiance-area {
+  height: 500px;
+  margin-top: 50px;
+  background-image: url(./images/top-banner.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+.ex-heading {
+  padding: 25px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.s-ex {
+  text-align: justify;
+  box-shadow: 10px 10px 20px #ff3987;
+  border-left: 2px solid;
+  border-top: 1px solid;
+  border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+}
+
+footer p {
+  text-align: center;
+  color: teal;
+  font-size: 18px;
 }
