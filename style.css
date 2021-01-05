@@ -33,7 +33,7 @@ body {
 .text-orange {
   color: #ff3987;
 }
-.btn {
+button.btn {
   font-size: 15px;
   padding: 10px 8px;
   text-transform: uppercase;
